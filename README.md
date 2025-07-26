@@ -15,6 +15,8 @@ I’m a backend-focused Software Engineer passionate about building robust APIs,
 ### 🚀 Currently Learning
 - `.NET 9` and advanced ASP.NET Core internals
 - System design and performance tuning
+- K8s and advanced deployment
+- MLOps and ML Piplines
 
 ---
 
